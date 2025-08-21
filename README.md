@@ -53,5 +53,7 @@ Great beginner project to understand classification models in ML.
 💡 Example Usage
 
 
-https://github.com/user-attachments/assets/65a36da9-5027-4f38-92e7-9c224427b557
+
+https://github.com/user-attachments/assets/01d23aaf-796f-4e24-bdc2-14cfa74caa6e
+
 
